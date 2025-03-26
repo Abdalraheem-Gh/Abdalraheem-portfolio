@@ -8,7 +8,7 @@ export function SocialIcons() {
     <div className="flex items-center justify-center border-0  md:gap-2 md:p-2   bg-primary-foreground  rounded-full  ml-2">
       {/* واتساب */}
       <Link
-        href="https://wa.me/qr/4E2OZOB434LKC1"
+        href="https://wa.me/963930538918"
         target="_blank"
         rel="noopener noreferrer"
         className="p-2 hover:bg-gray-100 dark:hover:bg-gray-800 rounded-full transition-colors"
